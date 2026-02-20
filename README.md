@@ -1,5 +1,7 @@
 # Slack-Project-Sync-Agent
+
 **Manage GitLab and Jira tasks without ever leaving Slack.**
+
 Slack Project Sync Agent is an automation bot that connects Slack with project management tools like Jira and GitLab. It syncs issues, creates and updates tasks, processes interactive Slack actions, and manages repository access (granting and removing permissions). It also leverages Retrieval-Augmented Generation (RAG) to provide project-relevant information directly within Slack, helping teams stay informed and streamline collaboration and workflow management.
 
 
