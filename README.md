@@ -21,7 +21,8 @@ Slack-Project-Sync-Agent
 ```
 ---
 ## Agent
-This folder contains the core n8n workflows that power the **eLuna** Slack-based AI agent. The agent listens to messages in Slack, classifies and processes tasks, coordinates human approvals, and interacts with project management tools (Jira & GitLab) — all from within a Slack interface.
+This folder contains the core n8n workflows that power the eLuna Slack-based AI agent. The agent listens to messages in Slack, classifies and processes tasks, coordinates human approvals, and interacts with project management tools (Jira & GitLab) — all from within a Slack interface.
+
 ---
 
 ## Architecture Overview
