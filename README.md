@@ -1,8 +1,9 @@
 # Slack-Project-Sync-Agent
 Slack Project Sync Agent is an automation bot that connects Slack with project management tools like Jira and GitLab. It syncs issues, creates and updates tasks, processes interactive Slack actions, and manages repository access (granting and removing permissions). It also leverages Retrieval-Augmented Generation (RAG) to provide project-relevant information directly within Slack, helping teams stay informed and streamline collaboration and workflow management.
 
+---
 ## Project Structure
-
+```
 Slack-Project-Sync-Agent 
 │  
 ├── Jira Integration  
@@ -17,11 +18,13 @@ Slack-Project-Sync-Agent
     ├── eluna - Slack Buttons Handler  
     └── eluna - main 
 ---
-# Agent
+```
+---
+Agent
 
 This folder contains the core n8n workflows that power the **eLuna** Slack-based AI agent. The agent listens to messages in Slack, classifies and processes tasks, coordinates human approvals, and interacts with project management tools (Jira & GitLab) — all from within a Slack interface.
-
 ---
+
 ## Architecture Overview
 
 ```
